@@ -112,7 +112,9 @@
       </div>
     </nav>
     
-    <img src="{% block imagehero %}{% endblock %}" style="width: 100%; height: auto" />
+    {% if self.imagehero() %} 
+    <img src="{% block imagehero %}{% endblock %}" style="width: 100%; height: auto; margin-top: 10px" />
+    {% endif %}
 
     <div class="container">
 

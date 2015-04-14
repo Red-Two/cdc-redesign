@@ -1,9 +1,7 @@
 Title: Who We Are
+imagehero: /images/banners/Whoweare_banner.jpg.cropped.png
 
 
-
-Who We Are
-==========
 
 
 ##  Joni Monroe, AIA

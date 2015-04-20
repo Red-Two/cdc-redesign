@@ -8,7 +8,7 @@ imagehero: /images/banners/Whoweare_banner.jpg.cropped.png
 ### Executive Director
 
 
-<img src="/images/people/bio_joni.jpg" style="float: left; margin: 10px"  />
+<img src="/images/people/bio_joni.jpg" class="profile-img"/>
 Joni Monroe, AIA, is one of the founding members of the Community Design Center of Rochester and has served as the Executive Director since 2003. Under her leadership, the CDCR has extended its outreach to the 9 county Greater Rochester Region as the area’s only non-profit community-driven advocate for planning and design of the built environment offering technical assistance, facilitation and educational programs. Joni, who holds Masters degrees in Architecture from Yale University, Historic Preservation from Columbia University and Education from the Warner School at the University of Rochester, is committed to providing community access to design and planning resources. 
 
 Dedicated to civic engagement, she is active in local and national civic design and community organizations, serving on the Preservation Issues Committee of the Landmark Society of Western NY and the Board of Directors of the Rochester Oratorio Society. In her civic design role she sits on the City’s Stakeholders’ Committee for the Midtown Redevelopment Project and chairs the CDCR’s Downtown Task Force. 
@@ -19,7 +19,7 @@ Joni directs much of her energy to working with community-based groups and desig
 ### Creative Consultant
 
 
-<img src="/images/people/bio_roger.jpg" style="float: left; margin: 10px"  />
+<img src="/images/people/bio_roger.jpg" class="profile-img" />
 
 Mr. Brown has been a practicing architect in New York State for over 35 years. He was Associate Partner with Barkstrom&LaCroix Architects for 27 years and is currently principle of the urban design consulting firm, Urban Architecture. Roger is a member of the American Institute of Architects and Congress for the New Urbanism. He served on the Board of the Common Good Planning Center (1999-2003) and is a founding member of the Community Design Center of Rochester (2003) as well as its predecessor organization, the AIA Rochester Urban Design Committee (1998). While with Barkstrom&LaCroix, Roger designed many AIA Rochester award winning residential and mixed use projects around the Rochester area including Cornhill Landing, the Mills, the Crescent, 70 East Blvd., Elmwood Manor Townhouses, and Cornhill Commons along with Vision Plans for Pittsford Village and Hilton Village Center. Roger regularly gives presentations on urban and community design to neighborhood groups, municipalities, and professional organizations. He has helped plan and facilitate numerous community design charrettes and design conferences/workshops on urban design and planning issues.
 

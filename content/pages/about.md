@@ -1,48 +1,58 @@
 Title: About
-imagehero: http://balrog.student.rit.edu:8000/images/stock/tunnel2.jpg
+imagehero: /images/banners/Development_banner.jpg.cropped.png
 
 
 
-About
-=====
 
+# Development/Design Fund Program
 
-rem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas cursus iaculis
-finibus. Donec maximus dapibus magna, sit amet lobortis arcu facilisis sed. Sed
-lectus sapien, dictum et placerat tincidunt, tincidunt vel nunc. Duis feugiat
-sem ac tristique fermentum. Duis dictum tortor vestibulum lorem maximus, eget
-tincidunt magna scelerisque. Nam eget diam faucibus, semper tellus vitae,
-sollicitudin elit. Sed fringilla ultrices justo id convallis. In hac habitasse
-platea dictumst. Morbi auctor blandit orci, et luctus ligula scelerisque
-ornare. Sed nec eleifend diam. Ut porttitor nunc dui, vel molestie eros gravida
-a. Morbi bibendum in lacus ut pretium. Aliquam interdum dapibus diam ac
-pretium. Curabitur eget orci ornare, tristique risus eget, ullamcorper dui.
+## About the Program
 
-Sed vulputate luctus mauris at sodales. Maecenas nec porta magna, vulputate
-convallis massa. Suspendisse vitae velit vitae urna condimentum pellentesque.
-Integer in lacus tempor, ultricies lectus eget, efficitur nisi. Morbi nec
-molestie est, et facilisis ipsum. Donec imperdiet eu libero at semper.
-Pellentesque rutrum efficitur mollis.
+The Community Design Center Rochester (CDCR) advocates for
+the value of good design, planning and public policy to support more livable
+and sustainable communities in the Rochester region. Though the
+Development/Design Fund program we provide funding and technical assistance to
+help community-based organizations hire and work with architectural and
+planning consultants at the early stages of community revitalization projects.
+The purpose of the Development/Design Fund is to improve the quality of
+revitalization efforts in challenged areas of our city. 
 
-Donec mattis sem mattis neque auctor egestas. Quisque ornare quam enim, eget
-hendrerit tellus tincidunt sollicitudin. Morbi quis luctus mi. Phasellus
-ullamcorper felis ante, a pretium dolor aliquam at. Suspendisse odio sem,
-mollis et magna a, venenatis pharetra lacus. Morbi molestie elit non euismod
-gravida. Aenean rhoncus, mi sit amet tincidunt rhoncus, lorem est mattis elit,
-non pulvinar augue lacus quis justo. Donec eu est id est auctor suscipit.
-Mauris cursus feugiat est, sed gravida enim efficitur varius. Duis ultricies
-enim id leo porta lacinia. Sed mi libero, suscipit nec egestas nec,
-pellentesque at massa. Praesent et magna malesuada, pharetra turpis interdum,
-volutpat sapien. Phasellus auctor dui vitae sodales vulputate.
+The Development/Design Fund is generously funded by the Louis S. and Molly B.
+Wolk Foundation, the Max and Marion Farash Charitable Foundation, and the New
+York State Council on the Arts. The program aids 501c3 non-profit
+organizations by awarding grants and providing technical assistance. Grant
+awards that range from $2,500 to $15,000. These grants support a wide range of
+projects, and maintain an emphasis on implementation of existing plans and
+projects that have already gained some community participation. However, it
+also supports new planning initiatives where needed. 
 
-Aenean eget neque sed nulla dapibus semper eu quis urna. Nam ac dui ut leo
-feugiat egestas. Ut sollicitudin mollis egestas. Praesent purus libero,
-malesuada nec rutrum a, sollicitudin at augue. Donec sollicitudin, ex non
-blandit sodales, sapien quam commodo ex, a pharetra velit ex quis diam. Aliquam
-lacinia placerat consectetur. Sed tristique sapien non ipsum congue, vel
-vulputate purus accumsan. Integer ac metus justo. Etiam egestas orci vitae
-dolor viverra, at pulvinar massa imperdiet. Morbi placerat vulputate porttitor.
-Sed dapibus sollicitudin turpis, sit amet bibendum nibh tempus vitae. Curabitur
-interdum purus nec posuere ullamcorper. Donec ultrices sem at dolor lobortis,
-eget blandit lorem egestas. Cras et metus in tellus aliquet rutrum consequat
-quis ante. Integer semper enim sed ligula ultrices rutrum.
+The Development/Design Fund supports planning, design and early-action funding
+for projects that need professional consultants (architects, landscape
+    architects, planners, environmental engineers), to perform pre-development
+work such as conceptual architectural drawings, community planning, urban
+design, and market analyses. Project types might include: buildings and
+sites, neighborhood planning, blight remediation, greening and
+sustainability initiatives, streetscapes, landscape design, development of
+design guidelines, and the like.  
+
+We encourage you to approach us with an idea for development and we will
+follow up with you to help guide the process; we are here to be of assistance.
+Grant applications are reviewed twice yearly in both the spring and the fall
+through a competitive application process. CDCR staff assists with developing
+a scope of work and a Request for Proposals (RFP), interviewing and selecting
+a consultant, and working with that consultant throughout the life of your
+project. Once you receive a grant, the CDCR Development/Design Fund Committee
+is also available to provide design review and general insight into your
+project.
+
+When a project involves specific real estate development, as opposed to
+community planning, assistance is typically provided as a “recoverable grant.”
+If your project moves ahead to construction, the Development/Design Fund grant
+is to be repaid (without interest) from construction financing sources. This
+enables the CDCR to re-use the funds to support other vital community
+projects.  If the project proves to be unfeasible, the funding can be
+forgiven.
+
+For a detailed description of the Development/Design Fund process, please
+[click Here](#) <!--TODO fill this in-->
+
